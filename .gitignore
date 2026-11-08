@@ -1,0 +1,7 @@
+.venv/
+infra/.env
+*.pem
+__pycache__/
+*.parquet
+awscliv2.zip
+aws/
